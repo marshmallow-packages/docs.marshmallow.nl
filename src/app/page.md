@@ -18,5 +18,3 @@ If you are missing functionalities in one of our packages of you need a complete
 {% quick-link title="SEO Rich Content" icon="theming" href="/docs/seo-richt-content/installation" description="Learn how to use our SEO Rich Content pacakge. (coming soon)" /%}
 
 {% /quick-links %}
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste.
